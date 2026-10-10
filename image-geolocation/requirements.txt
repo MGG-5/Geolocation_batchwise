@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+numpy
+pandas
+pillow
+geopandas
+shapely
+huggingface_hub
